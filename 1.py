@@ -1,3 +1,5 @@
 a = str()
 b = int()
 c = list()
+d = list()
+e = list()
